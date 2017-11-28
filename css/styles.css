@@ -1,0 +1,22 @@
+img {
+  width: 50px;
+  margin: 10px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.wrap {
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+  font-size: 56;
+  margin-top: 20px;
+}
+
+li {
+  line-height: 50px;
+}
